@@ -5,7 +5,7 @@ The repository for the take-home project for Tilburg University's research softw
 ## Folder Structure
 
 ### answers/
-- **all_participants_data_FIT_study.xlsx**: Excel file containing data for all participants. This is the final answer.
+- **all_participants_data_FIT_study.xlsx**: Excel file containing data for all participants. This is the final answer to question 2.
 - **requirements.txt**: List of Python dependencies required for the project.
 - **tilburg_q1_and_q3.html**: HTML document with questions 1 and 3.
 - **tilburg_q2.ipynb**: Jupyter Notebook for question 2.
