@@ -9,7 +9,7 @@ The repository for the take-home project for Tilburg University's research softw
 - **requirements.txt**: List of Python dependencies required for the project.
 - **tilburg_q1_and_q3.html**: PDF document with questions 1 and 3.
 - **tilburg_q2.ipynb**: Jupyter Notebook for question 2.
-- [pending] : presentation for the process
+- **presentation_tilburg**: Powerpoint presentation explaining the three questions.
 
 ### questions/
 - Contains raw data and questions for each participant.
